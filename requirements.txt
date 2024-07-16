@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyserial
+pyttsx3
+tensorflow
+tflite-runtime
+openai
+pydantic
+RPi.GPIO
